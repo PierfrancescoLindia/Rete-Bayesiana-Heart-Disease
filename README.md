@@ -77,8 +77,3 @@ I punti di forza sono:
 
 Al tempo stesso, qualità dei risultati e stabilità del modello dipendono dalla preparazione dei dati, dalla discretizzazione e dalle scelte di apprendimento della struttura.
 
----
-
-## 6. Repository Structure
-Struttura consigliata:
-
